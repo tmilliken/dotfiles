@@ -1,0 +1,27 @@
+{
+   "api_console_project_id": "303057181160",
+   "app": {
+      "launch": {
+         "web_url": "http://www.befunky.com/create/"
+      },
+      "urls": [ "http://www.befunky.com/" ]
+   },
+   "container": "GOOGLE_DRIVE",
+   "description": "Online Photo Editing Application",
+   "gdrive_mime_types": {
+      "http://drive.google.com/intents/opendrivedoc": [ {
+         "disposition": "window",
+         "href": "http://www.befunky.com/create/",
+         "title": "Open",
+         "type": [ "image/png", "image/jpeg", "image/gif", "application/vnd.google.drive.ext-type.png", "application/vnd.google.drive.ext-type.jpg", "application/vnd.google.drive.ext-type.gif" ]
+      } ]
+   },
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDLeZ84j5mlUl0yy0m2SYoSejzxAPzv5Tb5deFWnrKLCeEFlO2UgC3/QXsTgGSDKavPPAldcW28MpiA+RacCBKKdQWM045PkYXB6ZAlYMOcV5ywmRL4niQhOjM6I8QyJ5mHCujNI+3dOUo9+nJFp0VB6pkOLNkJY4BMCXpoc6A0EwIDAQAB",
+   "manifest_version": 2,
+   "name": "BeFunky Photo Editor",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.0.1"
+}

@@ -1,0 +1,1016 @@
+{
+   "AccountLabel": {
+      "message": "حساب"
+   },
+   "AppDescription": {
+      "message": "با «ویرایشگر Microsoft» که دستیار نوشتن دستور زبان، املا و سبک نگارش هوشمند شماست، با اعتماد به نفس بنویسید."
+   },
+   "AppLongDescription": {
+      "message": "با «ویرایشگر Microsoft» (۱)، دستیار نگارش رایگان خود، به نویسنده بهتری در وب تبدیل شوید. «ویرایشگر Microsoft»(۱) پا به پای شما در همه سایت‌ها حرکت می‌کند، بنابراین شما می‌توانید با اعتماد به نفس پست‌های مفید و مختصر را آنلاین بنویسید. با این افزونه مرورگر، این امکانات را دریافت می‌کنید: \r\n\r\nدستیار نگارش هوشمند – بررسی فوق‌العاده اصول اولیه دستور زبان، بررسی املا و نقطه‌گذاری را به صورت رایگان انجام دهید. بررسی ویژگی‌هایی همچون گویایی، مختصرنویسی، ویژگی‌های صوری، واژگان، و بسیاری موارد دیگر را با استفاده از اشتراک ویژه در اختیار خواهید داشت (۲). \r\n\r\nنگارش در همه جا – با این افزونه مرورگر، در سایت‌هایی مانند LinkedIn، Facebook و بسیاری دیگر از سایت‌های مورد علاقه خود بازخورد دریافت می‌کنید. اگر می‌خواهید از کمک «ویرایشگر» در جای دیگری غیر از محیط وب بهره‌مند شوید، Word را باز کنید و به دنبال نماد «ویرایشگر» بگردید و ببینید که «ویرایشگر» چگونه می‌تواند در اسناد، ایمیل، و سایر بخش‌های وب کمکتان کند. \r\n\r\nدر دسترس به زبان‌های مختلف – در بیش از ۲۰ زبان بازخورد اولیه دریافت کنید (و به‌طور خاص در بیش از ۸۰ زبان از بررسی املایی بهره‌مند شوید) بدین ترتیب برقراری ارتباط واضح، در هر زبانی که به آن می‌نویسید، میسر می‌شود \r\n\r\nزبان‌های در دسترس (۳):\r\n– عربی\r\n– چکی\r\n– دانمارکی\r\n– هلندی\r\n– انگلیسی\r\n– فنلاندی\r\n– فرانسوی\r\n– آلمانی\r\n– عبری (هنوز در نسخه رایانه برنامه Word در دسترس نیست)\r\n– مجاری\r\n– ایتالیایی\r\n– ژاپنی\r\n– کره‌ای\r\n– نروژی (بوکمال)\r\n– لهستانی\r\n– پرتغالی (برزیل)\r\n– پرتغالی (پرتغال)\r\n– روسی\r\n– اسپانیایی\r\n– سوئدی\r\n– ترکی \r\n\r\n(۱) برای مرورگرهای Microsoft Edge یا Chrome در دسترس است و داشتن حساب Microsoft الزامی است. «ویرایشگر» به یک سرویس آنلاین Microsoft متصل می‌شود که پیشنهادهای املایی، دستور زبان و اصلاحات پیشنهادی را برای نگارش شما در اکثر وب‌سایت‌ها ارائه می‌دهد. \r\n (۲) داشتن اشتراک Microsoft 365 برای دسترسی به قابلیت‌های ویژه «ویرایشگر» الزامی است\r\n (۳) ویرایشگر اصلاحات نوشتاری را به زبان‌های زیر ارائه می‌دهد؛ همه زبان‌ها دارای مجموعه‌های یکسانی از اصلاحات نیستند. \r\n\r\nبا نصب این برنامه، شما موافقت خود را با این شرایط و ضوابط اعلام می‌کنید: \r\n\r\n https://aka.ms/editorchromeextensionterms\r\n\r\nخط مشی حریم خصوصی: http://aka.ms/privacy"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "با «ویرایشگر Microsoft»، دستیار هوشمند نگارش، املا و سبک نوشتاری مخصوص خودتان، با اعتماد به نفس بنویسید. \r\n\r\nبا «ویرایشگر Microsoft» (۱)، دستیار نگارش رایگان خود، به نویسنده بهتری در وب تبدیل شوید. ویرایشگر پا به پای شما در همه سایت‌ها حرکت می‌کند، بنابراین شما می‌توانید با اعتماد به نفس پست‌های مفید و مختصر را آنلاین بنویسید. با این افزونه مرورگر، این امکانات را دریافت می‌کنید: \r\n\r\nدستیار نگارش هوشمند – بررسی فوق‌العاده اصول اولیه دستور زبان، بررسی املا و نقطه‌گذاری را به صورت رایگان انجام دهید. بررسی ویژگی‌هایی همچون گویایی، مختصرنویسی، ویژگی‌های صوری، واژگان، و بسیاری موارد دیگر را با استفاده از اشتراک ویژه در اختیار خواهید داشت (۲). \r\n\r\nنگارش در همه جا – با این افزونه مرورگر، در سایت‌هایی مانند LinkedIn، Facebook و بسیاری دیگر از سایت‌های مورد علاقه خود بازخورد دریافت می‌کنید. اگر می‌خواهید از کمک «ویرایشگر» در جای دیگری غیر از محیط وب بهره‌مند شوید، Word را باز کنید و به دنبال نماد «ویرایشگر» بگردید و ببینید که «ویرایشگر» چگونه می‌تواند در اسناد، ایمیل، و سایر بخش‌های وب کمکتان کند. \r\n\r\nدر دسترس به زبان‌های مختلف – در بیش از ۲۰ زبان بازخورد اولیه دریافت کنید (و به‌طور خاص در بیش از ۸۰ زبان از بررسی املایی بهره‌مند شوید) بدین ترتیب برقراری ارتباط واضح، در هر زبانی که به آن می‌نویسید، میسر می‌شود \r\n\r\nزبان‌های در دسترس (۳):\r\n– عربی\r\n– چکی\r\n– دانمارکی\r\n– هلندی\r\n– انگلیسی\r\n– فنلاندی\r\n– فرانسوی\r\n– آلمانی\r\n– عبری (هنوز در نسخه رایانه برنامه Word در دسترس نیست)\r\n– مجاری\r\n– ایتالیایی\r\n– ژاپنی\r\n– کره‌ای\r\n– نروژی (بوکمال)\r\n– لهستانی\r\n– پرتغالی (برزیل)\r\n– پرتغالی (پرتغال)\r\n– روسی\r\n– اسپانیایی\r\n– سوئدی\r\n– ترکی \r\n\r\n(۱) برای مرورگرهای Microsoft Edge یا Chrome در دسترس است و داشتن حساب Microsoft الزامی است. «ویرایشگر» به یک سرویس آنلاین Microsoft متصل می‌شود که پیشنهادهای املایی، دستور زبان و اصلاحات پیشنهادی را برای نگارش شما در اکثر وب‌سایت‌ها ارائه می‌دهد. \r\n (۲) داشتن اشتراک Microsoft 365 برای دسترسی به قابلیت‌های ویژه «ویرایشگر» الزامی است \r\n (۳) ویرایشگر اصلاحات نوشتاری را به زبان‌های زیر ارائه می‌دهد؛ همه زبان‌ها دارای مجموعه‌های یکسانی از اصلاحات نیستند. \r\n\r\nبا نصب این برنامه، شما موافقت خود را با این شرایط و ضوابط اعلام می‌کنید: \r\n\r\nhttps://aka.ms/editorchromeextensionterms\r\n\r\nخط مشی حریم خصوصی: http://aka.ms/privacy"
+   },
+   "AppName": {
+      "message": "ویرایشگر Microsoft: املا و گرامر جستجوگر"
+   },
+   "AppShortName": {
+      "message": "ویرایشگر"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "«ویرایشگر» به‌صورت نسخه بتا در «سندنگار Google» است. اگر با مشکلی مواجه هستید، لطفاً به ما اطلاع دهید."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "هنگامی که «ویرایشگر» و سایر افزونه‌های ویرایشی هر دو در حال اجرا باشند، پیشنهادهای آنها ممکن است تداخل یا همپوشانی داشته باشد. برای بهره‌مندی هرچه بهتر از تجربه کار با ویرایشگر، توصیه می‌کنیم سایر افزونه‌های ویرایشی را در تنظیمات افزونه مرورگر خود خاموش کنید."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "تداخلی بین افزونه‌های ویرایش شناسایی شد"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "غیرفعال کردن «ویرایشگر» در $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "ویرایشگر Microsoft"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "دستور زبان"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "«ویرایشگر» در حال حاضر در $host$ پشتیبانی نمی‌شود",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "«ویرایشگر» در حال حاضر در $host$ غیرفعال است",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "«ویرایشگر» خاموش است."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$، $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "fa"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "ویرایشگر شامل $host$ است",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "Outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "زبان تصحیح: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "fa"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "زبان تصحیح"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "زبان های تصحیح"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "با خرید اشتراک ویژه، ایده‌های نگارشی پیشرفته دریافت کنید و از ۱ ترابایت فضای ذخیره‌سازی بهره‌مند شوید."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "اصلاحات"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "اصلاحات، پیشنهادهای نگارشی پیشرفته هستند که کمک می‌کنند نوشته شما واضح، موجز و رسمی‌تر باشد."
+   },
+   "EditorSettingsLabel": {
+      "message": "تنظیمات بیشتر ویرایشگر"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "املا"
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ و $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "fa"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "fa"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "فعال کردن «ویرایشگر» در $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "مشاهده حساب"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "افزونه مرورگر Microsoft Editor"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "شما با موفقیت «ویرایشگر Microsoft» را به نسخه ویژه ارتقا دادید! ویژگی‌های گسترش‌یافته این نسخه را با کلیک بر روی زیرخط‌های آبی و قرمز موجود در نوشته خود بررسی کنید."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "تبریک"
+   },
+   "SettingsLabel": {
+      "message": "تنظیمات حساب"
+   },
+   "SignInLabel": {
+      "message": "ورود به سیستم"
+   },
+   "SignOutLabel": {
+      "message": "خروج از سیستم"
+   },
+   "SignOutTooltip": {
+      "message": "خروج از برنامه تمام تنظیمات را به حالت پیش‌فرض باز می‌گرداند و باعث از دست رفتن فهرست سایت‌های مستثنی‌شده شما خواهد شد."
+   },
+   "SupportPageLabel": {
+      "message": "برای ورود نیاز به کمک ​دارید؟"
+   },
+   "TurnOnEditorLabel": {
+      "message": "روشن کردن «ویرایشگر»"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "تصحیح، $1، $2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "خطای دستوری، $1، $2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "اصلاح سبک، $1، $2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "کلمه تکرار شده، $1، $2"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "غلط املایی، $1، $2"
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "شما فقط می‌توانید قابلیت تصحیح را حداکثر برای سه زبان به‌طور همزمان روشن کنید."
+   },
+   "ebx_AddedToDictionary": {
+      "message": "\"$1\" به لغت نامه اضافه شد."
+   },
+   "ebx_Cancel": {
+      "message": "لغو"
+   },
+   "ebx_Dismiss": {
+      "message": "بستن"
+   },
+   "ebx_Done": {
+      "message": "انجام شد"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "بازخورد با موفقیت ارسال شد."
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "از اینکه ویرایشگر (بتا) را در Google Docs امتحان می‌کنید، سپاسگزاریم. ما در حال ایجاد به‌روزرسانی‌ها برای اعمال تغییرات انجام‌شده در «Docs Google» توسط «ویرایشگر» بودیم که باعث توقف کار «ویرایشگر» شد. زمانی که «ویرایشگر» برای استفاده مجدد آماده است، به شما اطلاع خواهیم داد."
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "ویرایشگر در «سندنگار Google» در دسترس نیست"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "هنگام نوشتن، پیشنهادهای پیشرفته دریافت کنید. "
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "«ویرایشگر» (بتا) را در سندنگار Google امتحان کنید"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "پیشنهاد دستور زبان نادیده گرفته شد."
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "ما $language$ را براساس تنظیمات مرورگر فعلی شما انتخاب کردیم.",
+      "placeholders": {
+         "language": {
+            "content": "$1",
+            "example": "انگلیسی (بریتانیا)"
+         }
+      }
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "املا و دستور زبان را به طور همزمان به سه زبان بررسی کنید."
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "شما می توانید زبان‌های خود را در تنظیمات Editor ویرایش کنید."
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "ما $language1$​​​​​, $language2$​​​​​, and $language3$​​​​​ را بر اساس تنظیمات مرورگر فعلی شما انتخاب کردیم.",
+      "placeholders": {
+         "language1": {
+            "content": "$1",
+            "example": "انگلیسی (بریتانیا)"
+         },
+         "language2": {
+            "content": "$2",
+            "example": "انگلیسی (بریتانیا)"
+         },
+         "language3": {
+            "content": "$3",
+            "example": "انگلیسی (بریتانیا)"
+         }
+      }
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "تصحیح چند زبان با ویرایشگر"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "ما $language1$​​​​​ and $language2$​​​​​ را براساس تنظیمات مرورگر فعلی شما انتخاب کردیم.",
+      "placeholders": {
+         "language1": {
+            "content": "$1",
+            "example": "انگلیسی (بریتانیا)"
+         },
+         "language2": {
+            "content": "$2",
+            "example": "انگلیسی (بریتانیا)"
+         }
+      }
+   },
+   "ebx_ProofingLanguages": {
+      "message": "زبان‌های تصحیح"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "مشترکین Microsoft 365 وقتی وارد سیستم شوند پیشنهادهای نگارشی پیشرفته دریافت می‌کنند."
+   },
+   "ebx_RemoveItem": {
+      "message": "حذف"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "اکنون می‌توانید کلمات خود را به فرهنگ لغت املایی «ویرایشگر» اضافه کنید. زمانی که «ویرایشگر» یک پیشنهاد املایی ارائه می‌دهد، «افزودن به فرهنگ لغت» را جستجو کنید."
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "فرهنگ لغت املایی خود را شخصی‌سازی کنید"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "تأیید"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "اکنون «ویرایشگر» می‌تواند کلمات را به فرهنگ لغت سفارشی که در برنامه‌های Microsoft 365 شما تعبیه شده است اضافه کند. وارد سیستم شوید و هنگامی‌که «ویرایشگر» یک پیشنهاد املایی ارائه می‌دهد، به‌دنبال «افزودن به فرهنگ لغت» بگردید."
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "برای فرهنگ لغت املایی شخصی‌شده، وارد سیستم شوید"
+   },
+   "ebx_RuleIgnored": {
+      "message": "نقد \"$1\" در تنظیمات غیرفعال شده است."
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "این نقد در تنظیمات غیرفعال شده است."
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "برای دریافت پیشنهادهای نگارشی در اکثر وب‌سایت‌ها، در حساب Microsoft خود یا حساب کاری یا مدرسه‌ای که برای Office استفاده می‌کنید وارد شوید."
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "ورود به سیستم"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "برای دریافت پیشنهادهای نگارشی در اکثر وب‌سایت‌ها، وارد سیستم شوید. تنظیمات شما، مانند زبان‌هایی که به آن می‌نویسید و انواع مشکلاتی که می‌خواهید «ویرایشگر» آنها را بررسی کند، ذخیره می‌کنیم."
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "«ویرایشگر» هنوز اجرا نمی‌شود"
+   },
+   "ebx_SpellingIgnored": {
+      "message": "پیشنهاد املا نادیده گرفته شد."
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "باز کردن با کلیک چپ یا Alt+پیکان پایین"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "با کلیک چپ یا (Control+Option+‏پیکان پایین) باز کنید"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(Alt+پیکان پایین)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(Control+Option+پیکان پایین)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "تصحیح دستور زبان"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "اصلاح نگارش"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "تصحیح املا"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "با کلیک چپ باز کنید"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "پیشنهاد \"$1\" با موفقیت پذیرفته شد."
+   },
+   "ebx_TurnItOn": {
+      "message": "آن را روشن کنید"
+   },
+   "ebx_addAnotherSite": {
+      "message": "افزودن سایت دیگر"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "افزودن سایت دیگر"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "افزودن سایت به فهرست سایت‌های مسدودشده را لغو می‌کند."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "سایت را به فهرست سایت‌های مسدودشده اضافه می‌کند"
+   },
+   "ebx_addButton": {
+      "message": "افزودن"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "برای افزودن بررسی دستور زبان"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "لغو افزودن زبان به فهرست زبان‌های تصحیح"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "افزودن زبان به فهرست زبان‌های تصحیح"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "افزودن یک زبان دیگر"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "افزودن به لغت نامه"
+   },
+   "ebx_appDescription": {
+      "message": "با «ویرایشگر Microsoft» که دستیار نوشتن شما است، با اطمینان بنویسید"
+   },
+   "ebx_appLongDescription": {
+      "message": "«ویرایشگر» امکان بررسی دستور زبان، بررسی املایی و پیشنهادهای سبکی را در سایت‌های مختلف فراهم می‌سازد (۱)؛ بنابراین می‌توانید با اعتماد به نفس بالا پست‌ها و ایمیل‌های واضح و موجز بنویسید. \r\n\r\nجدید:‌ امکان تصحیح چندزبانه فراهم شده است، می‌توانید گشتن در میان گزینه‌ها را نادیده بگیرید. \r\nاملا و دستور زبان را حداکثر برای سه زبان به‌صورت همزمان بررسی کنید. علاوه بر این، بررسی املایی برای زبان تایلندی اکنون فراهم شده است. همچنین قابلیتی ایجاد شده است که به‌واسطه آن به راحتی می‌توان با انتخاب «نادیده گرفتن همه» از کل موارد اصلاحات املایی صرف نظر کرد، یا با انتخاب «نادیده گرفتن»، از پیشنهادهای دستوری ناخواسته چشم پوشید.\r\n\r\nدستیار نوشتن هوشمند \r\nبررسی اصول اولیه دستور زبان، بررسی املا، تصحیح نقطه‌گذاری را به رایگان انجام دهید. پیشنهادهای دستوری و بررسی سبکی پیشرفته برای مسائلی مانند گویایی، مختصرنویسی، ویژگی‌های صوری، واژگان و بسیاری موارد دیگر را با استفاده از اشتراک ویژه در اختیار خواهید داشت (داشتن اشتراک Microsoft 365 الزامی است). \r\n\r\nهمه جا بنویسید \r\nبا این افزونه مرورگر، در سایت‌هایی مانند LinkedIn، ‏Gmail، ‏Facebook و بسیاری دیگر، از سایت‌های مورد علاقه خود کمک نگارشی دریافت کنید. اگر می‌خواهید از کمک «ویرایشگر» در جای دیگری غیر از محیط وب بهره‌مند شوید، Word را باز کنید و به دنبال نماد «ویرایشگر» بگردید و ببینید که «ویرایشگر» چگونه می‌تواند هنگام نوشتن اسناد و ایمیل کمکتان کند. \r\n\r\nدر دسترس به زبان‌های مختلف \r\n«ویرایشگر» املا را در بیش از ۸۰ زبان از بررسی املایی بررسی می‌کند و بررسی دستوری و اصلاحات سبک نگارشی را به زبان‌های زیر میسر می‌کند: (۲) \r\n– عربی\r\n– چکی\r\n– دانمارکی\r\n– هلندی\r\n– انگلیسی\r\n– فنلاندی\r\n– فرانسوی\r\n– آلمانی\r\n– عبری\r\n– مجاری\r\n– ایتالیایی\r\n– ژاپنی\r\n– کره‌ای\r\n– نروژی (بوکمال)\r\n– لهستانی\r\n– پرتغالی (برزیل)\r\n– پرتغالی (پرتغال)\r\n– روسی\r\n– اسپانیایی\r\n– سوئدی\r\n– ترکی\r\n\r\n۱. برای مرورگرهای Microsoft Edge یا Chrome در دسترس است و داشتن حساب Microsoft الزامی است. «ویرایشگر» به یک سرویس آنلاین Microsoft متصل می‌شود که پیشنهادهای املایی، دستور زبان و اصلاحات پیشنهادی را برای نگارش شما در اکثر وب‌سایت‌ها ارائه می‌دهد. \r\n۲. همه زبان‌ها دارای مجموعه‌های یکسانی از اصلاحات نیستند. \r\n\r\nبا نصب این برنامه، شما موافقت خود را با این شرایط و ضوابط اعلام می‌کنید: \r\n\r\nhttps://aka.ms/editorchromeextensionterms\r\n\r\nخط مشی حریم خصوصی: http://aka.ms/privacy"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "با «ویرایشگر Microsoft»، دستیار نوشتن هوشمند خود، مطمئن بنویسید. \r\n\r\n«ویرایشگر» امکان بررسی دستور زبان، بررسی املایی و پیشنهادهای سبکی را در سایت‌های مختلف فراهم می‌سازد (۱)؛ بنابراین می‌توانید با اعتماد به نفس بالا پست‌ها و ایمیل‌های واضح و موجز بنویسید. \r\n\r\nجدید:‌ امکان تصحیح چندزبانه فراهم شده است، می‌توانید گشتن در میان گزینه‌ها را نادیده بگیرید. \r\nاملا و دستور زبان را حداکثر برای سه زبان به‌صورت همزمان بررسی کنید. علاوه بر این، بررسی املایی برای زبان تایلندی اکنون فراهم شده است. همچنین قابلیتی ایجاد شده است که به‌واسطه آن به راحتی می‌توان با انتخاب «نادیده گرفتن همه» از کل موارد اصلاحات املایی صرف نظر کرد، یا با انتخاب «نادیده گرفتن»، از پیشنهادهای دستوری ناخواسته چشم پوشید. \r\n\r\nدستیار نوشتن هوشمند \r\nبررسی اصول اولیه دستور زبان، بررسی املا، تصحیح نقطه‌گذاری به رایگان انجام دهید. پیشنهادهای دستوری و بررسی سبکی پیشرفته برای مسائلی مانند گویایی، مختصرنویسی، ویژگی‌های صوری، واژگان و بسیاری موارد دیگر را با استفاده از اشتراک ویژه در اختیار خواهید داشت (داشتن اشتراک Microsoft 365 الزامی است). \r\n\r\nهمه جا بنویسید \r\nبا این افزونه مرورگر، در سایت‌هایی مانند LinkedIn، ‏Gmail، ‏Facebook و بسیاری دیگر، از سایت‌های مورد علاقه خود کمک نگارشی دریافت کنید. اگر می‌خواهید از کمک «ویرایشگر» در جای دیگری غیر از محیط وب بهره‌مند شوید، Word را باز کنید و به دنبال نماد «ویرایشگر» بگردید و ببینید که «ویرایشگر» چگونه می‌تواند هنگام نوشتن اسناد و ایمیل کمکتان کند. \r\n\r\nدر دسترس به زبان‌های مختلف \r\n«ویرایشگر» املا را در بیش از ۸۰ زبان از بررسی املایی بررسی می‌کند و بررسی دستوری و اصلاحات سبک نگارشی را به زبان‌های زیر میسر می‌کند: (۲) \r\n– عربی\r\n– چکی\r\n– دانمارکی\r\n– هلندی\r\n– انگلیسی\r\n– فنلاندی\r\n– فرانسوی\r\n– آلمانی\r\n– عبری\r\n– مجاری\r\n– ایتالیایی\r\n– ژاپنی\r\n– کره‌ای\r\n– نروژی (بوکمال)\r\n– لهستانی\r\n– پرتغالی (برزیل)\r\n– پرتغالی (پرتغال)\r\n– روسی\r\n– اسپانیایی\r\n– سوئدی\r\n– ترکی\r\n\r\n۱. برای مرورگرهای Microsoft Edge یا Chrome در دسترس است و داشتن حساب Microsoft الزامی است. «ویرایشگر» به یک سرویس آنلاین Microsoft متصل می‌شود که پیشنهادهای املایی، دستور زبان و اصلاحات پیشنهادی را برای نگارش شما در اکثر وب‌سایت‌ها ارائه می‌دهد. \r\n۲. همه زبان‌ها دارای مجموعه‌های یکسانی از اصلاحات نیستند. \r\n\r\nبا نصب این برنامه، شما موافقت خود را با این شرایط و ضوابط اعلام می‌کنید: \r\n\r\nhttps://aka.ms/editorchromeextensionterms\r\n\r\nخط مشی حریم خصوصی: http://aka.ms/privacy"
+   },
+   "ebx_appName": {
+      "message": "ویرایشگر در مرورگر"
+   },
+   "ebx_appShortName": {
+      "message": "ویرایشگر"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1، شبیه به: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1، $2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1، $2، شبیه به: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "جایگزین کردن با"
+   },
+   "ebx_asInSynonyms": {
+      "message": "شبیه به"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "«$1»، تصحیح خودکار لغو شد."
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "بازگشت به «$1»"
+   },
+   "ebx_autoCorrected": {
+      "message": "$1، به‌طور خودکار تصحیح شد."
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "برای گزینه‌های تصحیح خودکار، کنترل را فشار دهید."
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "\"$url$\" عضو با موفقیت اضافه شد",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "https://microsoft.com"
+         }
+      }
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "برای دسترسی به دکمه «حذف»، کلید پیکان راست را فشار دهید."
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "این فهرست خالی است."
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "\"$url$\" با موفقیت حذف شد",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "https://microsoft.com"
+         }
+      }
+   },
+   "ebx_brandText": {
+      "message": "ویرایشگر Microsoft"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "آرم ویرایشگر Microsoft"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "تغییر همه"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "تنظیمات ویرایشگر..."
+   },
+   "ebx_close": {
+      "message": "بستن"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "به زودی"
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "حذف کلمه تکراری"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "توقف بررسی برای این مورد"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "دیگر این را بررسی نکنید. «ویرایشگر» تا زمانی که این تنظیم را تغییر ندهید آن را اعمال می‌کند."
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "«ویرایشگر» تا زمانی که این تنظیم را تغییر ندهید آن را اعمال می‌کند"
+   },
+   "ebx_displayOptions": {
+      "message": "گزینه‌های نمایش"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "این سایت در حال حاضر در فهرست سایت‌های مسدودشده است"
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "ویرایشگر $1 ایده نگارشی پیشرفته برای این پیام دارد."
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "افزونه مرورگر Microsoft Office اکنون شامل «ویرایشگر Microsoft»، دستیار نگارش هوشمند شما است که کمکتان می‌کند بهترین نگارش خود را در سراسر وب رقم بزنید. «ویرایشگر Microsoft» به سرویس آنلاین متصل می‌شود تا پیشنهادهای املایی، دستوری و سبکی را برای شما ارائه دهد."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "ویرایشگر Microsoft (نسخه مقدماتی) هم‌اکنون در حال اجرا است"
+   },
+   "ebx_editorFeature": {
+      "message": "ویرایشگر Microsoft"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "خاموش"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "خاموش کردن «Editor»"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "روشن"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "ویژگی ویرایشگر"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " و "
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": "، "
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "ویرایشگر $1 ایده نگارشی پیشرفته برای این پیام دارد."
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "ویرایشگر $1 ایده نوشتن پیشرفته برای این پیام دارد."
+   },
+   "ebx_excludedSites": {
+      "message": "سایت‌های مستثنی‌شده"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "گزارش‌کردن این پیشنهاد"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "لطفاً دلیل انتخاب این پاسخ را به ما بگویید"
+   },
+   "ebx_feedbackLink": {
+      "message": "بازخورد"
+   },
+   "ebx_feedbackMessage": {
+      "message": "کمک به ما برای بهبود «Editor» با ارائه"
+   },
+   "ebx_feedbackRating1": {
+      "message": "بسیار منفی"
+   },
+   "ebx_feedbackRating2": {
+      "message": "تا حدودی منفی"
+   },
+   "ebx_feedbackRating3": {
+      "message": "نه مثبت و نه منفی"
+   },
+   "ebx_feedbackRating4": {
+      "message": "تا حدودی مثبت"
+   },
+   "ebx_feedbackRating5": {
+      "message": "بسیار مثبت"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "به طور کلی، تجربه خود را هنگام استفاده از «ویرایشگر Microsoft» چطور توصیف می‌کنید"
+   },
+   "ebx_feedbackSubmitNotice": {
+      "message": "با فشار دادن «ارسال»، بازخوردتان برای بهبود محصولات و سرویس‌های Microsoft استفاده می‌شود."
+   },
+   "ebx_feedbackTitle": {
+      "message": "ارائه بازخورد برای ویرایشگر Microsoft"
+   },
+   "ebx_giveFeedback": {
+      "message": "ارائه بازخورد"
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "از ایده‌های نگارشی پیشرفته «ویرایشگر»، ۱ ترابایت فضای ذخیره‌سازی OneDrive و قابلیتهای ویژه در تمام برنامه‌های Microsoft 365 بهره‌مند شوید."
+   },
+   "ebx_goPremiumLine": {
+      "message": "ایده‌های نگارشی پیشرفته «ویرایشگر» را امتحان کنید."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "اشتراک ویژه بگیرید"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "عضو ویژه شوید"
+   },
+   "ebx_goToSettings": {
+      "message": "به تنظیمات ویرایشگر بروید"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "برای کسب اطلاعات بیشتر به تنظیمات «ویرایشگر» مراجعه کنید"
+   },
+   "ebx_googleDocs": {
+      "message": "سندنگار Google"
+   },
+   "ebx_grammar": {
+      "message": "دستور زبان"
+   },
+   "ebx_hideSynonyms": {
+      "message": "پنهان کردن مترادف‌ها"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "نادیده گرفتن همه"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "نادیده گرفتن"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "باز کردن ویرایشگر"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "مشاهده همه پیشنهادها در ویرایشگر"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "در این خط \"$1\" مورد اشکال برای تصحیح وجود دارد"
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "در این خط \"$1\" مورد اشکال برای تصحیح وجود دارد"
+   },
+   "ebx_languageAdded": {
+      "message": "\"$language$\" با موفقیت اضافه شد",
+      "placeholders": {
+         "language": {
+            "content": "$1",
+            "example": "انگلیسی (بریتانیا)"
+         }
+      }
+   },
+   "ebx_languageMovedToTop": {
+      "message": "\"$language$\" با موفقیت به بالاترین موقعیت در فهرست منتقل شد",
+      "placeholders": {
+         "language": {
+            "content": "$1",
+            "example": "انگلیسی (بریتانیا)"
+         }
+      }
+   },
+   "ebx_languageMovedUp": {
+      "message": "\"$language$\" با موفقیت به اندازه یک موقعیت در فهرست به بالا منتقل شد",
+      "placeholders": {
+         "language": {
+            "content": "$1",
+            "example": "انگلیسی (بریتانیا)"
+         }
+      }
+   },
+   "ebx_languageRemoved": {
+      "message": "\"$language$\" با موفقیت حذف شد",
+      "placeholders": {
+         "language": {
+            "content": "$1",
+            "example": "انگلیسی (بریتانیا)"
+         }
+      }
+   },
+   "ebx_learnMore": {
+      "message": "بیشتر بدانید"
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "مدیریت زبان‌ها"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "فرمان‌های بیشتر"
+   },
+   "ebx_moveDown": {
+      "message": "انتقال به پایین"
+   },
+   "ebx_moveToTop": {
+      "message": "انتقال به بالاترین قسمت"
+   },
+   "ebx_moveUp": {
+      "message": "انتقال به بالا"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "پیشنهاد بعدی، $1 باقی مانده است"
+   },
+   "ebx_openEditorLabel": {
+      "message": "باز کردن ویرایشگر"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "تنظیمات ویرایشگر"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "از آنجا که این غلط املایی را چند بار مرتکب شده‌اید، «$1» را به فهرست «تصحیح خودکار» شما اضافه کرده‌ایم."
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "$1 روز از پیش‌نمایش باقی مانده است. برای نامحدود شدن پیشنهادها، اشتراکتان را ارتقا دهید:"
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "$1 روز از پیش‌نمایش باقی مانده است. برای نامحدود شدن پیشنهادها، اشتراکتان را ارتقا دهید:"
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "از ایده‌های نگارش پیشرفته «ویرایشگر» بهره‌مند شوید."
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "$1 پیشنهاد در حالت پیش‌نمایش باقی مانده است. برای نامحدود شدن پیشنهادها، اشتراکتان را ارتقا دهید:"
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "$1 پیشنهاد در حالت پیش‌نمایش باقی مانده است. برای نامحدود شدن پیشنهادها، اشتراکتان را ارتقا دهید:"
+   },
+   "ebx_previewLabel": {
+      "message": "پیش‌نمایش"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "پیشنهاد قبلی، $1 باقی مانده است"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "هنگام استفاده از این سرویس آنلاین، داده‌های تشخیص عیب اختیاری به‌صورت خودکار ارسال شود تا بتوانیم محصولاتمان را بهبود ببخشیم."
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "درباره داده‌های تشخیص عیب بیشتر بدانید"
+   },
+   "ebx_privacyOptions": {
+      "message": "گزینه‌های حریم خصوصی"
+   },
+   "ebx_proofingLanguage": {
+      "message": "زبان تصحیح"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "برای دسترسی به دکمه «فرمان‌های بیشتر»، کلید پیکان راست را فشار دهید."
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "انتخاب زبان تصحیح"
+   },
+   "ebx_proofingLanguages": {
+      "message": "زبان‌های تصحیح"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "حداکثر سه زبان را انتخاب کنید. زبان مورد نظر شما در بالاترین قسمت خواهد بود."
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "آیا ویرایشگر را مفید می دانید؟"
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "ارائه بازخورد"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "از شنیدن آن متاسفیم. لطفاً به ما اطلاع دهید که چگونه می توانیم ویرایشگر را بهبود ببخشیم."
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "خیر"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "خیر، متشکرم"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "عالی است، آیا دوست دارید به آن امتیاز دهید؟"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "اگر هنوز از استفاده از Editor لذت می برید، آیا دوست دارید آن را ارزیابی کنید؟"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "حتماً"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "بله"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "بازخورد درباره ویرایشگر Microsoft"
+   },
+   "ebx_refinements": {
+      "message": "اصلاحات"
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "این کلمه تکرار می‌شود"
+   },
+   "ebx_settings": {
+      "message": "تنظیمات"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "بازکردن تنظیمات ویرایشگر"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "تنظیمات Microsoft Editor"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "تنظیمات به هر زبان"
+   },
+   "ebx_showBeta": {
+      "message": "بتا در $1"
+   },
+   "ebx_showSynonyms": {
+      "message": "نمایش مترادف‌ها"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "نمایش مترادف‌ها برای پیشنهادهای املایی"
+   },
+   "ebx_signIntoEditor": {
+      "message": "ورود به ویرایشگر"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "برای دریافت پیشنهادهای دستور زبان و اصلاحات پیشنهادی در اکثر وب‌سایت‌ها، لطفاً وارد سیستم شوید."
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "برای یک فرهنگ لغت شخصی بررسی املا"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "برای یک فرهنگ لغت املای شخصی‌سازی‌شده، وارد سیستم شوید."
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "برای دریافت پیشنهادهای مربوط به دستور زبان، فرهنگ املایی شخصی‌شده و تصحیح در اکثر وب‌سایت‌ها، لطفاً وارد سیستم شوید."
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "وارد «ویرایشگر» شوید"
+   },
+   "ebx_spelling": {
+      "message": "املا"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "مجدداً صحت این مورد را بررسی کنید"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "عملکردهای بیشتر"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[کلمات مترادف وجود ندارند]"
+   },
+   "ebx_toggleOff": {
+      "message": "خاموش"
+   },
+   "ebx_toggleOn": {
+      "message": "روشن"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "بله، لطفا"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "حالا دیگر ما پیشنهادهایی هم برای کمک به بهبود لحن نوشتار شما داریم. می‌خواهید نگاهی به آن‌ها بیاندازید؟"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "رد کردن"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "حالا نه"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "ایجاد تغییرات در تنظیمات ویرایشگر"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "هرگز پیشنهادهای مربوط به لحن را نشان نده"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "تشخیص لحن غیرفعال است."
+   },
+   "ebx_tonalFreTitle": {
+      "message": "تشخیص لحن"
+   },
+   "ebx_toneLabel": {
+      "message": "لحن"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "ارجاع این موضوع ممکن است برای کاربران شما مفید باشد"
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "پیشنهاد موضوعات Viva"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "ایده‌های نگارشی پیشرفته «ویرایشگر» را امتحان کنید"
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "اکنون امتحان کنید"
+   },
+   "ebx_turnOffEditor": {
+      "message": "خاموش کردن «ویرایشگر»"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "«ویرایشگر» به سرویس آنلاین Microsoft متصل می‌شود که پیشنهادهای املایی، گرامر و سبکی را برای نگارش شما در اکثر وب‌سایت‌ها ارائه می‌دهد."
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "لغو عمل"
+   },
+   "ebx_undoButtonText": {
+      "message": "لغو عمل"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "گزینه‌های تصحیح خودکار"
+   },
+   "ebx_userBlockedSites": {
+      "message": "سایت‌های مسدودشده"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "Url نامعتبر است. لطفاً url را در قالب زیر ارائه دهید: https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "‫Url ‏\"$url$\" در ردیف $line$ نامعتبر است.",
+      "placeholders": {
+         "line": {
+            "content": "$2",
+            "example": "123"
+         },
+         "url": {
+            "content": "$1",
+            "example": "https://microsoft.com"
+         }
+      }
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "شما «ویرایشگر» را در سایت‌های فهرست‌شده در زیر خاموش کرده‌اید. قابلیت «ویرایشگر» ممکن است به‌طور خودکار در سایت‌های دیگر دارای محتوای حساس یا سرعت بارگیری کُند خاموش شود."
+   },
+   "esdk_autocorrect": {
+      "message": "تصحيح خودکار"
+   },
+   "esdk_cancelButton": {
+      "message": "لغو"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "تنظیمات"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "{0}، خاموش."
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "{0}، روشن."
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}. برای شنیدن وضعیت دسته، tab را فشار دهید"
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "پیکان راست برای بازکردن دسته."
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "تنظیمات دقیق غیرفعال می‌شوند."
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "پیکان راست برای وارد کردن تنظیمات دقیق."
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "{0} غیر فعال شد"
+   },
+   "esdk_categoryListAllOff": {
+      "message": "همه تنظیمات دقیق در این دسته اکنون لغو انتخاب شده‌اند."
+   },
+   "esdk_categoryListAllOn": {
+      "message": "همه تنظیمات دقیق در این دسته اکنون انتخاب شده‌اند."
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "تنظیمات دقیق برای {0}"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "تغییر وضعیت دسته، Space یا Enter را فشار دهید،"
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "ویرایشگر این مسئله را پرچم‌گذاری نمی کند، مگر اینکه پنجره ویرایشگر را باز کنید"
+   },
+   "esdk_closeButton": {
+      "message": "بستن"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "اصلاحات"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "پیکان چپ برای بازگشت به تنظیمات"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "پیکان سمت راست برای تنظیمات دقیق"
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "تنظیمات ویرایشگر Microsoft"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "بارگیری تنظیمات ویرایشگر ناموفق بود"
+   },
+   "esdk_goPremiumButton": {
+      "message": "اشتراک ویژه بگیرید"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "با دارا بودن اشتراک ویژه، ایده‌های نگارشی پیشرفته دریافت می‌کنید و از ۱ ترابایت فضای ذخیره‌سازی بهره‌مند می‌شوید"
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}. tab را فشار دهید تا توضیح را بشنوید"
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "ویرایش خطی"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "زبان تصحیح"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "تنظیمات برای"
+   },
+   "esdk_okButton": {
+      "message": "تأیید"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "پالایش‌ها"
+   },
+   "esdk_resetToDefault": {
+      "message": "بازنشانی به پیش‌فرض"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "پیشنهادات نگارشی «ویرایشگر» پیشرفته را امتحان کنید."
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "جزئیات دانلود"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "همه زبان‌ها راهنمای نوشتاری یکسانی ندارند. برای مشاهده جزئیات مربوط به تنظیمات دستور زبان و تصحیح در دسترس برای زبان انتخابی، این سند را دانلود کنید."
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "بیشتر بدانید"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "همه زبان‌ها راهنمای نوشتاری یکسانی ندارند. این پیوند را دنبال کنید تا درباره تنظیمات دستور زبان و تصحیح در دسترس برای همه زبان‌های «ویرایشگر»، {اطلاعات بیشتری کسب کنید}."
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "همه زبان‌ها راهنمای نوشتاری یکسانی ندارند. درباره تنظیمات دستور زبان و تصحیح در دسترس برای همه زبان‌های «ویرایشگر»، {اطلاعات بیشتری کسب کنید}."
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "تغییرات در گزینه‌های املا برای همه زبان‌های فعال اعمال می‌شود"
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "پیش‌بینی‌های متن"
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "ترفندهای یادگیری"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "مثال‌ها"
+   },
+   "explanationTableAfter": {
+      "message": "در نظر گرفتن:"
+   },
+   "explanationTableBefore": {
+      "message": "در عوض:"
+   },
+   "explanationTableSeparator": {
+      "message": "یا"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "خواندن جمله اصلی با صدای بلند"
+   },
+   "sbx_signInDescription": {
+      "message": "برای دریافت پیشنهادهای املایی، دستور زبان و اصلاحات پیشنهادی در اکثر وب‌سایت‌ها، لطفاً وارد سیستم شوید."
+   }
+}

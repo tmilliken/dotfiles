@@ -1,0 +1,9 @@
+2022/02/05-08:17:54.882 3 Reusing MANIFEST /home/tom/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/02/05-08:17:54.889 3 Recovering log #75
+2022/02/05-08:17:54.892 3 Reusing old log /home/tom/.config/google-chrome/Default/Local Storage/leveldb/000075.log 
+2022/02/05-08:18:40.635 5 Level-0 table #80: started
+2022/02/05-08:18:40.647 5 Level-0 table #80: 41677 bytes OK
+2022/02/05-08:18:40.649 5 Delete type=0 #75
+2022/02/05-08:19:03.775 3 Level-0 table #82: started
+2022/02/05-08:19:03.782 3 Level-0 table #82: 258353 bytes OK
+2022/02/05-08:19:03.784 3 Delete type=0 #79
